@@ -27,6 +27,9 @@ class Rectangle():
 
     # YOUR CODE HERE
 
+    def verify_input():
+        pass
+
 
 
     # Create the "area" method
