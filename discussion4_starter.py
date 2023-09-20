@@ -16,9 +16,7 @@ class Rectangle():
 
     # YOUR CODE HERE
 
-    def __str__():
-        pass
-
+   
 
 
     # Create the "verify_input" method
