@@ -16,6 +16,9 @@ class Rectangle():
 
     # YOUR CODE HERE
 
+    def __str__():
+        pass
+
    
 
 
